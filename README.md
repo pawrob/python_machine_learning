@@ -7,6 +7,7 @@ Library of machine learning training and tutorial basic programs.
 * [Linear regression algorithm](src/linear_regression.py)
 * [K nearest neighbors alghoritm](src/knn.py)
 * [Support vector machine](src/svm.py)
+* [Kmeans](src/kmeans.py)
 
 
 ## Libraries
@@ -22,3 +23,5 @@ Linear regression algorithm that predicts student marks based on their previous 
 KNN alghoritm which can redict vehicle class basing on atributes 
 ### Support vector machine
 SVM alghoritm which can predict brest cancer by symptomps 
+### K means
+Basic cluster clasify alghoritm for provided data
